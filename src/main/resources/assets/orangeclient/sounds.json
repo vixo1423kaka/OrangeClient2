@@ -1,7 +1,0 @@
-{
-  "gui.click": {
-    "sounds": [
-      { "name": "orangeclient:pop", "stream": false }
-    ]
-  }
-}
